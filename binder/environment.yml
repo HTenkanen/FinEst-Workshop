@@ -47,3 +47,6 @@ dependencies:
   - tqdm
   - urbanaccess
   - xarray
+  - pip
+  - pip:
+      - geostream
