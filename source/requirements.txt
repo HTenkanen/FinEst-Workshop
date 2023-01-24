@@ -1,0 +1,4 @@
+myst_nb
+sphinx-book-theme
+sphinx
+sphinx-togglebutton
