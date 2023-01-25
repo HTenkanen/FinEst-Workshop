@@ -1,13 +1,12 @@
 .. figure:: img/event_banner.png
 
 *Session*: **Python for Geospatial Data & Analytics** session deals with the use open-source tools in Python to access and use geospatial data in Python to
-study various phenomena in urban setting.
+study various phenomena in urban setting. This session is part of *Utilizing Urban Digital Twin in Smart City Context* FinEst PhD School workshop held in Tallinn 25.1.2023.
 
 After participating in the event:
 
 - you know some of the core libraries in Python to work with geospatial data (e.g. geopandas)
 - you understand the basic workflow for retrieving data via APIs to Python
-- you understand some of the possibilities and limitations of the demonstrated tools
 
 .. admonition:: Interactive contents
 
