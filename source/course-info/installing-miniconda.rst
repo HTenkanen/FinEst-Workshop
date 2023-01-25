@@ -1,5 +1,5 @@
-Install Python + R libraries
-============================
+Install Python libraries
+========================
 
 The purpose of this page is to help you to install Python and different Python packages into your own computer. After completing these instructions, you will have an environment that contain Python libraries which are needed to run the tutorials for Python.
 
