@@ -36,21 +36,21 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: Demo
-
-   notebooks/demo/r5py_demo.ipynb
-   notebooks/demo/r5r_demo.ipynb
-
-.. toctree::
-   :maxdepth: 1
    :caption: Tutorials
 
-   notebooks/r5py_intro.ipynb
-   notebooks/r5r_intro.ipynb
-   notebooks/spatial_network_analysis.ipynb
+   notebooks/geoprocessing/index
+   notebooks/data_access/index
 
 .. toctree::
    :maxdepth: 2
    :caption: Exercises
 
    exercises/exercise-1
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Demo
+
+   notebooks/demo/r5py_demo.ipynb
+   notebooks/demo/r5r_demo.ipynb
