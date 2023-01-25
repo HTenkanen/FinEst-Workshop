@@ -41,6 +41,7 @@ dependencies:
   - scikit-mobility
   - scipy
   - segregation
+  - shapely<2.0
   - spaghetti
   - splot
   - spreg
